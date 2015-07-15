@@ -20,7 +20,7 @@ input type="range"
 
 input type="tel"
 
-More HTML5 inpu types
+More HTML5 input types
 - color
 - date
 - datetime
